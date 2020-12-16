@@ -51,11 +51,11 @@ else:
 
 # ### Keywords
 
-# In[3]:
+# In[7]:
 
 
 #Gensim keywords
-kws,scores,df=utils.keywords_scores(text,10)
+kws,scores,df=utils.keywords_scores(text)
 kws
 
 
@@ -75,12 +75,6 @@ key_phr
 
 summary,summary_list=utils.key_summaries(text)
 summary_list
-
-
-# In[ ]:
-
-
-
 
 
 # In[ ]:

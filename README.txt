@@ -1,7 +1,7 @@
 ## Python Script: Keyword_and_Keyphrases_from_PDF_or_URL
 ## This script takes a PDF file or an URL and returns keywords and keyphrases
 
-## Details: Input an article using PDF file or an URL. The output will be the number of pages(for PDF files), top 10 keywords from the article, top 10 important phrases from the article and a summary of the article. 
+## Details: Input an article using PDF file or an URL. If article is not in PDF format or not a valid URL an error will be displayed. The output will be the number of pages(for PDF files), top 10 keywords from the article, top 10 important phrases from the article and a summary of the article. 
 
 Steps:
 1. Enter PDF or URL
